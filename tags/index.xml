@@ -5,8 +5,9 @@
     <link>http://thephilotomy.ml/tags/</link>
     <description>Recent content in Tags on The Philosophical Anatomy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://thephilotomy.ml/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://thephilotomy.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
